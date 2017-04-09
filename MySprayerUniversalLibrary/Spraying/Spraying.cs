@@ -56,7 +56,6 @@ namespace MySprayerUniversalLibrary.Spraying
         public static double getFieldWaterRate(double tankSize, double area)
         {
             return tankSize / area;
-
         }
     }
 }
